@@ -1,0 +1,12 @@
+{
+    "name": "Metro Remix",
+    "description": "",
+    "version": "1.0.0",
+    "author": "booploops",
+    "github_repo": "booploops/MetroRemixTheme",
+    "directives": {
+        "lcdArtworkSize": {
+            "value": 100
+        }
+    }
+}
